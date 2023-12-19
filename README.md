@@ -18,7 +18,7 @@ git push -u origin main
 ```
 + I have created an empty folder in my file explorer and opened the folder in CMD. After Opened CMD
 I just copy pasted executed the lines one by one.
-+ This first line `echo "git-and-github" >> READMe.md" created an READMe.md File with the content `"# git-and-github"` .
++ This first line `echo "git-and-github" >> READMe.md" created an READMe.md File with the content  `# git-and-github` .
 
 
 
